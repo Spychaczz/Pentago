@@ -1,0 +1,6 @@
+q1 a1 q2 a2 q3 a3 w1 a4 w2 // ostatni wiersz u gory L
+
+q2 a1 q3 a2 w1 a3 w2 a4 w3 // ostatni wiersz u gory P
+
+
+q7 w6 q4 w5 q1 w8 a7 s6 a4	// pionowo po lewej
